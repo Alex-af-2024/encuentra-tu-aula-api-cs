@@ -12,3 +12,4 @@
         // Relación: Un edificio tiene muchas aulas
         public ICollection<Aula> Aulas { get; set; } = new List<Aula>();
     }
+}
