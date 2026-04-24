@@ -1,0 +1,6 @@
+@EncuentraTuAula.API_HostAddress = http://localhost:5064
+
+GET {{EncuentraTuAula.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
